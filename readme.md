@@ -6,6 +6,19 @@ Following the demo, we will engage in a group discussion to brainstorm potential
 
 ## About me
 
+I sometimes project on buildings
+![](images/illuminator.jpg)
+[The Illuminator](https://theilluminator.org)
+![](images/undocumenta.jpg)
+[undocumenta](https://undocumenta.net/)
+
+or bail people out of jail using distributed software
+![](images/bailbloc.png)
+
+or make games
+![](images/wurm1.png)
+![](images/wurm2.jpg)
+[W.U.R.M.](https://arstechnica.com/gaming/2016/05/survive-a-wormhole-in-two-player-video-game-w-u-r-m/)
 
 ## Procedural Rhetoric
 
@@ -14,6 +27,7 @@ Following the demo, we will engage in a group discussion to brainstorm potential
 Player Action → System Rules → Outcome/Feedback → Message/Argument
 
 ![McDonald's Game](images/mcdonalds.jpg)
+[McDonald's Game playthrough](https://www.youtube.com/watch?v=XZI90qpxa_k)
 
 + **Rules as Arguments**:
    - Games are built on rules and systems that define how players interact with the world.
@@ -21,6 +35,7 @@ Player Action → System Rules → Outcome/Feedback → Message/Argument
    - *Example*: A game about environmental conservation might limit resources to highlight sustainability.
 
 ![Papers, Please](images/papers.png)
+[Papers, Please](https://store.steampowered.com/app/239030/Papers_Please/)
 
 + **Player Interaction**:
    - Procedural rhetoric relies on the player’s actions and decisions within the system to experience the argument firsthand.
@@ -66,5 +81,14 @@ With the term **Simulations-as-Art** I am referring to to the use of dynamic, in
 [Link to Emoji Simulator](https://ncase.me/sim/)
 
 - **Purpose**: Emoji Simulator is typically used to represent systems, relationships, or processes through the use of emojis. These emojis act as lightweight, intuitive symbols that convey meaning quickly, often in a humorous or visually appealing way.
-- **Flexibility**: It can be applied to everything from conveying abstract concepts (like ecosystems or social systems) to creating interactive art or storytelling.
+- **Flexibility**: It can be used to convey abstract concepts (like ecosystems or social systems), create interactive systems, or for art and storytelling.
 
++ What are some scenarios or ideas to use with the Emoji Simulator?
+
+## Independent Work
+
+Work on your simulations alone or in groups. I will come around and help out.
+
+## Show and Tell
+
+Present your simulations to the class
