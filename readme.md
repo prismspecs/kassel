@@ -61,3 +61,10 @@ With the term **Simulations-as-Art** I am referring to to the use of dynamic, in
 + [Brody Condon - KarmaPhysics < Elvis](https://vimeo.com/24001068)
 + [Danielle Brathwaite-Shirley](https://buffaloakg.org/person/danielle-brathwaite-shirley)
 
+## Emoji Simulator
+
+[Link to Emoji Simulator](https://ncase.me/sim/)
+
+- **Purpose**: Emoji Simulator is typically used to represent systems, relationships, or processes through the use of emojis. These emojis act as lightweight, intuitive symbols that convey meaning quickly, often in a humorous or visually appealing way.
+- **Flexibility**: It can be applied to everything from conveying abstract concepts (like ecosystems or social systems) to creating interactive art or storytelling.
+
