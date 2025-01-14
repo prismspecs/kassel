@@ -27,7 +27,7 @@ Player Action → System Rules → Outcome/Feedback → Message/Argument
    - Instead of passively consuming a message, players actively engage with it through gameplay.
    - *Example*: In **"Papers, Please"** by Lucas Pope, players act as border agents, facing moral dilemmas that critique bureaucracy and authoritarianism.
 
-![The Sims](sims.jpg)
+![The Sims](images/sims.jpg)
 
 + **Emergent Meaning**:
    - Procedural rhetoric often emerges from player choice, where the systems reveal broader themes.
@@ -36,7 +36,7 @@ Player Action → System Rules → Outcome/Feedback → Message/Argument
 
 Procedural rhetoric is the practice of using the rules, systems, and processes within games or simulations to convey ideas, arguments, or critiques. Coined by Ian Bogost, it focuses on how interaction and mechanics can express meaning beyond traditional forms like text or visuals.
 
-![Phone Story](phone.jpg)
+![Phone Story](images/phone.jpg)
 
 + **Critical and Political Potential**:
    - Procedural rhetoric is often used to critique social systems or explore complex topics.
