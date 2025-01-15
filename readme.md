@@ -28,6 +28,7 @@ or make games
 Player Action → System Rules → Outcome/Feedback → Message/Argument
 
 ![McDonald's Game](images/mcdonalds.jpg)
+
 [McDonald's Game playthrough](https://www.youtube.com/watch?v=XZI90qpxa_k)
 
 + **Rules as Arguments**:
@@ -36,6 +37,7 @@ Player Action → System Rules → Outcome/Feedback → Message/Argument
    - *Example*: A game about environmental conservation might limit resources to highlight sustainability.
 
 ![Papers, Please](images/papers.png)
+
 [Papers, Please](https://store.steampowered.com/app/239030/Papers_Please/)
 
 + **Player Interaction**:
@@ -53,6 +55,8 @@ Player Action → System Rules → Outcome/Feedback → Message/Argument
 Procedural rhetoric is the practice of using the rules, systems, and processes within games or simulations to convey ideas, arguments, or critiques. Coined by Ian Bogost, it focuses on how interaction and mechanics can express meaning beyond traditional forms like text or visuals.
 
 ![Phone Story](images/phone.jpg)
+
+[Phone Story](https://www.phonestory.org/)
 
 + **Critical and Political Potential**:
    - Procedural rhetoric is often used to critique social systems or explore complex topics.
