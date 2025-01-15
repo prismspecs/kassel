@@ -14,6 +14,7 @@ I sometimes project on buildings
 
 or bail people out of jail using distributed software
 ![](images/bailbloc.png)
+[Bail Bloc](https://bailbloc.thenewinquiry.com/about.html)
 
 or make games
 ![](images/wurm1.png)
